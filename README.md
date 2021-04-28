@@ -1,11 +1,4 @@
-## sudoku-react
+![image](https://user-images.githubusercontent.com/72698065/116359333-4f6c9980-a81c-11eb-864c-060e52ad9953.png)
+![image](https://user-images.githubusercontent.com/72698065/116359463-72974900-a81c-11eb-82d8-36f6b4bad764.png)
 
-Sodoku game with React and Typescript.
 
-### Preview Online
-
-[Play/Solve Sudoku](https://cenxky.github.io/sudoku-react)
-
-### License
-
-Released under the [MIT](http://opensource.org/licenses/MIT) license. See LICENSE file for details.
